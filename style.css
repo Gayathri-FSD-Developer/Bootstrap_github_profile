@@ -19,7 +19,7 @@
     border-radius: 20px;
 }
 .block1{
-    background-color:  rgb(39, 43, 43);
+    /* background-color:  rgb(39, 43, 43); */
     height: 50px;
     /* text-align: center; */
     /* width: 500px; */
@@ -45,4 +45,10 @@
     margin-bottom: 10px;
     border-radius: 10px;
    
+}
+.para{
+    border-radius: 10px;
+    background-color:  rgb(39, 43, 43);
+    width:500px;
+    margin-left: 100px;
 }
